@@ -36,6 +36,8 @@ python -m scripts.run_exercises
 python -m scripts.run_mm1
 ```
 
+Les images des graphiques générées par cette simulation se trouveront dans le dossier `data/figures`.
+
 ## Dépannage
 
 ### ModuleNotFoundError: No module named 'src' ou 'utils'
