@@ -3,6 +3,10 @@
 ## Installation
 
 ```bash
+# Entrer dans le dossier 
+cd exercice_mini_projet
+
+```bash
 # Création de l'environnement virtuel
 python -m venv .venv
 
